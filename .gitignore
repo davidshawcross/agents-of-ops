@@ -1,0 +1,8 @@
+GOOGLE_SERVICE_ACCOUNT_KEY.json
+.claude/
+*.env
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.ruff_cache/
