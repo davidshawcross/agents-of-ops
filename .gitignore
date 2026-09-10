@@ -6,3 +6,4 @@ GOOGLE_SERVICE_ACCOUNT_KEY.json
 __pycache__/
 *.pyc
 .ruff_cache/
+.DS_Store
